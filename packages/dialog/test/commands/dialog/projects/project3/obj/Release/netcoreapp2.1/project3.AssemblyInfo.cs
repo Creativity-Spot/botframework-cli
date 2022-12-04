@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microsoft")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("© Microsoft Corporation. All rights reserved.")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute(@"LUISGen is a tool for generating a strongly typed C# class or typescript interface to make consuming LUIS output easier in the Microsoft Bot Builder SDK.  This enables build-time error checking and intellisense against the intents and entities of your LUIS application model.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.1.0")]
